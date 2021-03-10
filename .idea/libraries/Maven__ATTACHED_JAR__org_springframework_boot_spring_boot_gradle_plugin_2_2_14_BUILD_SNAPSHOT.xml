@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: ATTACHED-JAR: org.springframework.boot:spring-boot-gradle-plugin:2.2.14.BUILD-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/spring-boot-tools/spring-boot-gradle-plugin/build/libs/spring-boot-gradle-plugin-2.2.14.BUILD-SNAPSHOT.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$PROJECT_DIR$/spring-boot-tools/spring-boot-gradle-plugin/build/libs/spring-boot-gradle-plugin-2.2.14.BUILD-SNAPSHOT-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/spring-boot-tools/spring-boot-gradle-plugin/build/libs/spring-boot-gradle-plugin-2.2.14.BUILD-SNAPSHOT-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
